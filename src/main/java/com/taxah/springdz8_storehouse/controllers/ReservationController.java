@@ -16,7 +16,7 @@ import java.util.Optional;
  */
 @AllArgsConstructor
 @RestController
-@RequestMapping("/api")
+@RequestMapping("/store")
 public class ReservationController {
     private ProductReservationService service;
 

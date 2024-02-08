@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: Storehouse
+  jpa:
+    generate-ddl: false
+    hibernate:
+      ddl-auto: none
+
+server:
+  port: 8079
