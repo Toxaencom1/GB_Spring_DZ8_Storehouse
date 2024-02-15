@@ -1,3 +1,10 @@
 INSERT INTO Products (name, cost, status) VALUES ('Notebook',2000, false);
 INSERT INTO Products (name, cost, status) VALUES ('Smartphone',1000, false);
 INSERT INTO Products (name, cost, status) VALUES ('Headphones',500, false);
+INSERT INTO Products (name, cost, status) VALUES ('Keyboard', 500, false);
+INSERT INTO Products (name, cost, status) VALUES ('Mouse', 200, false);
+INSERT INTO Products (name, cost, status) VALUES ('Monitor', 1300, false);
+INSERT INTO Products (name, cost, status) VALUES ('Printer', 1150, false);
+INSERT INTO Products (name, cost, status) VALUES ('Tablet', 1600, false);
+INSERT INTO Products (name, cost, status) VALUES ('Camera', 1700, false);
+INSERT INTO Products (name, cost, status) VALUES ('Speaker', 1200, false);
